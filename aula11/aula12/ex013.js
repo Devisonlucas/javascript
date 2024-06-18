@@ -1,7 +1,9 @@
-var agora = new Date()
-var diaSem = agora.getDay() 
 
-diaSem = 4
+var agora = new Date
+var diaSem = agora.getDate 
+
+diaSem = 5
+
 /* 
 
     0 = domindo
@@ -12,6 +14,7 @@ diaSem = 4
     5 = sexta
     6 = sabado
     */
+    
    switch(diaSem) {
     case 0:
         console.log('domingo')
@@ -43,4 +46,39 @@ diaSem = 4
 
 
    }
+
+   var agora = new Date
+   var dias = agora.getDate
+ 
+   dias = 5
+ 
+   switch(dias) {
+    case 0:
+        console.log('Domingo')
+        break
+    
+    case 1:
+        console.log('Segunda')
+         break
+     case 2:
+        console.log('Terça')  
+        break
+     case 3:
+        console.log('quarta')  
+        break
+     case 4:
+        console.log('quinta') 
+        break
+     case 5:
+        console.log('Sexta')
+        break   
+     case 6:
+        console.log('Sabado')
+        break
+     default:
+        console.log('[ERRO] Codigo inválido')  
+
+   }
+
+   
     
