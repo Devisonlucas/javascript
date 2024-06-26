@@ -1,10 +1,12 @@
-var pais = 'Brasil'
+/* var pais = 'Brasil'
 console.log(`Vivendo em ${pais}`)
 if (pais == 'Brasil') {
- console.log('Brasileiro!')   
- console.log('você é Brasileira')
+   console.log('Brasileiro!')
+   console.log('você é Brasileira')
 
 } else {
-   console.log('Vovê é Estrangeiro') 
+   console.log('Vovê é Estrangeiro')
 
-}
+} */
+
+   
