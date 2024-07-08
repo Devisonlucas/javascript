@@ -1,14 +1,6 @@
-
-/*
-var c = 1
-while (c <= 10) {
+console.log(`vai começar`)
+for(var c = 2; c <=15; c++) {
+   
     console.log(c)
-    c++
 }
-*/
-
-//--------------
-
-for(){
-    
-}
+console.log('FIM DO TEXTE')
